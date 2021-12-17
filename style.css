@@ -1,0 +1,492 @@
+@font-face {
+  font-family: 'aura-icons-neu';
+  src:  url('fonts/aura-icons-neu.eot?evs9y6');
+  src:  url('fonts/aura-icons-neu.eot?evs9y6#iefix') format('embedded-opentype'),
+    url('fonts/aura-icons-neu.ttf?evs9y6') format('truetype'),
+    url('fonts/aura-icons-neu.woff?evs9y6') format('woff'),
+    url('fonts/aura-icons-neu.svg?evs9y6#aura-icons-neu') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'aura-icons-neu' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Password_history:before {
+  content: "\e99a";
+}
+.icon-indeterminate:before {
+  content: "\e999";
+}
+.icon-phone-number:before {
+  content: "\e998";
+}
+.icon-location:before {
+  content: "\e997";
+}
+.icon-external_link:before {
+  content: "\e996";
+}
+.icon-threads_resolved:before {
+  content: "\e992";
+}
+.icon-device_protection:before {
+  content: "\e993";
+}
+.icon-laptop:before {
+  content: "\e994";
+}
+.icon-tracker:before {
+  content: "\e995";
+}
+.icon-copy:before {
+  content: "\e991";
+}
+.icon-search:before {
+  content: "\e990";
+}
+.icon-globe:before {
+  content: "\e98f";
+}
+.icon-adult:before {
+  content: "\e98d";
+}
+.icon-child:before {
+  content: "\e98e";
+}
+.icon-success:before {
+  content: "\e98c";
+}
+.icon-double_check:before {
+  content: "\e98b";
+}
+.icon-bank_account_pending:before {
+  content: "\e987";
+}
+.icon-ball:before {
+  content: "\e981";
+}
+.icon-entertainment:before {
+  content: "\e982";
+}
+.icon-health_place:before {
+  content: "\e983";
+}
+.icon-hotel:before {
+  content: "\e984";
+}
+.icon-percent:before {
+  content: "\e985";
+}
+.icon-restaurant:before {
+  content: "\e986";
+}
+.icon-bank_account_verified:before {
+  content: "\e988";
+}
+.icon-bank_ned_acount_holder:before {
+  content: "\e989";
+}
+.icon-bank_new_signer:before {
+  content: "\e98a";
+}
+.icon-device_added:before {
+  content: "\e97f";
+}
+.icon-device_removed:before {
+  content: "\e980";
+}
+.icon-bank_change:before {
+  content: "\e97a";
+}
+.icon-hand_inactive:before {
+  content: "\e97b";
+}
+.icon-home:before {
+  content: "\e97c";
+}
+.icon-ic_document_police:before {
+  content: "\e97d";
+}
+.icon-ic_document_user:before {
+  content: "\e97e";
+}
+.icon-address-change:before {
+  content: "\e969";
+}
+.icon-bank-add:before {
+  content: "\e96a";
+}
+.icon-card-plus-add:before {
+  content: "\e96b";
+}
+.icon-document-add:before {
+  content: "\e96c";
+}
+.icon-document:before {
+  content: "\e96d";
+}
+.icon-dollar-circle:before {
+  content: "\e96e";
+}
+.icon-home-check:before {
+  content: "\e96f";
+}
+.icon-id:before {
+  content: "\e970";
+}
+.icon-malware:before {
+  content: "\e971";
+}
+.icon-score-down:before {
+  content: "\e972";
+}
+.icon-score-up:before {
+  content: "\e973";
+}
+.icon-search-cross:before {
+  content: "\e974";
+}
+.icon-transaction-duplicate:before {
+  content: "\e975";
+}
+.icon-unarchive:before {
+  content: "\e976";
+}
+.icon-user-add:before {
+  content: "\e977";
+}
+.icon-user-check:before {
+  content: "\e978";
+}
+.icon-user-search:before {
+  content: "\e979";
+}
+.icon-Credit-freeze:before {
+  content: "\e960";
+}
+.icon-Credit-unlock:before {
+  content: "\e968";
+}
+.icon-Help:before {
+  content: "\e918";
+}
+.icon-Checkbox-filled:before {
+  content: "\e91f";
+}
+.icon-Dark-web:before {
+  content: "\e947";
+}
+.icon-Edit:before {
+  content: "\e957";
+}
+.icon-Gavel:before {
+  content: "\e95a";
+}
+.icon-Withdraw-email:before {
+  content: "\e95c";
+}
+.icon-Alert:before {
+  content: "\e967";
+}
+.icon-Decrease:before {
+  content: "\e903";
+}
+.icon-Increase:before {
+  content: "\e945";
+}
+.icon-Chevron-down:before {
+  content: "\e962";
+}
+.icon-Chevron-up:before {
+  content: "\e966";
+}
+.icon-Positive:before {
+  content: "\e949";
+}
+.icon-Negative:before {
+  content: "\e965";
+}
+.icon-User-group:before {
+  content: "\e910";
+}
+.icon-Delete:before {
+  content: "\e95e";
+}
+.icon-User-cutout:before {
+  content: "\e901";
+}
+.icon-Certificate:before {
+  content: "\e935";
+}
+.icon-Newspaper:before {
+  content: "\e937";
+}
+.icon-Restaurant:before {
+  content: "\e938";
+}
+.icon-Credit-report:before {
+  content: "\e93c";
+}
+.icon-Credit-lock:before {
+  content: "\e93e";
+}
+.icon-Contacts:before {
+  content: "\e93f";
+}
+.icon-Chart:before {
+  content: "\e940";
+}
+.icon-Archive:before {
+  content: "\e944";
+}
+.icon-Archived:before {
+  content: "\e946";
+}
+.icon-Dollar-circle:before {
+  content: "\e94f";
+}
+.icon-Radio-active:before {
+  content: "\e950";
+}
+.icon-Arrow-down-right:before {
+  content: "\e951";
+}
+.icon-Arrow-up-left:before {
+  content: "\e954";
+}
+.icon-Refresh:before {
+  content: "\e955";
+}
+.icon-WiFi:before {
+  content: "\e958";
+}
+.icon-Remove-user:before {
+  content: "\e959";
+}
+.icon-Filters:before {
+  content: "\e95b";
+}
+.icon-Checkbox-empty:before {
+  content: "\e961";
+}
+.icon-Flag:before {
+  content: "\e90e";
+}
+.icon-Shield-check:before {
+  content: "\e963";
+}
+.icon-Speedometer:before {
+  content: "\e964";
+}
+.icon-Service:before {
+  content: "\e93b";
+}
+.icon-Present:before {
+  content: "\e93d";
+}
+.icon-Cash:before {
+  content: "\e941";
+}
+.icon-User-minor:before {
+  content: "\e94a";
+}
+.icon-User-adult:before {
+  content: "\e94d";
+}
+.icon-Bell-settings:before {
+  content: "\e94e";
+}
+.icon-Sparkles:before {
+  content: "\e952";
+}
+.icon-Bus:before {
+  content: "\e953";
+}
+.icon-Timer:before {
+  content: "\e956";
+}
+.icon-Clock:before {
+  content: "\e95d";
+}
+.icon-Data-broker:before {
+  content: "\e95f";
+}
+.icon-Erase:before {
+  content: "\e91d";
+}
+.icon-Call:before {
+  content: "\e91e";
+}
+.icon-Eye-opened:before {
+  content: "\e920";
+}
+.icon-Eye-closed:before {
+  content: "\e921";
+}
+.icon-Check:before {
+  content: "\e922";
+}
+.icon-Medal:before {
+  content: "\e923";
+}
+.icon-Login:before {
+  content: "\e924";
+}
+.icon-Unink:before {
+  content: "\e925";
+}
+.icon-Link:before {
+  content: "\e926";
+}
+.icon-Plan:before {
+  content: "\e927";
+}
+.icon-Calendar:before {
+  content: "\e932";
+}
+.icon-arrow-up-right:before {
+  content: "\e933";
+}
+.icon-Moon:before {
+  content: "\e915";
+}
+.icon-Mobile:before {
+  content: "\e916";
+}
+.icon-Plus:before {
+  content: "\e917";
+}
+.icon-List:before {
+  content: "\e919";
+}
+.icon-Key:before {
+  content: "\e91a";
+}
+.icon-More:before {
+  content: "\e91b";
+}
+.icon-Credit-card:before {
+  content: "\e92a";
+}
+.icon-Name:before {
+  content: "\e934";
+}
+.icon-User:before {
+  content: "\e914";
+}
+.icon-Notifications-cutout:before {
+  content: "\e911";
+}
+.icon-Pagination:before {
+  content: "\e90c";
+}
+.icon-Loyalty-card:before {
+  content: "\e90d";
+}
+.icon-edit:before {
+  content: "\e902";
+}
+.icon-NPI:before {
+  content: "\e904";
+}
+.icon-Transaction:before {
+  content: "\e905";
+}
+.icon-Darkweb:before {
+  content: "\e906";
+}
+.icon-Credit-monitoring:before {
+  content: "\e908";
+}
+.icon-Close:before {
+  content: "\e909";
+}
+.icon-Circle:before {
+  content: "\e90a";
+}
+.icon-Check-circle:before {
+  content: "\e90b";
+}
+.icon-Arrow-left:before {
+  content: "\e94b";
+}
+.icon-Arrow-right:before {
+  content: "\e94c";
+}
+.icon-Bank:before {
+  content: "\e939";
+}
+.icon-Business:before {
+  content: "\e93a";
+}
+.icon-More-options:before {
+  content: "\e942";
+}
+.icon-Unsecured:before {
+  content: "\e943";
+}
+.icon-Cake:before {
+  content: "\e931";
+}
+.icon-Address:before {
+  content: "\e928";
+}
+.icon-Wallet:before {
+  content: "\e929";
+}
+.icon-Email:before {
+  content: "\e92b";
+}
+.icon-Health:before {
+  content: "\e92c";
+}
+.icon-License:before {
+  content: "\e92d";
+}
+.icon-Passport:before {
+  content: "\e92e";
+}
+.icon-Phone:before {
+  content: "\e92f";
+}
+.icon-SSN:before {
+  content: "\e930";
+}
+.icon-Android-back:before {
+  content: "\e900";
+}
+.icon-iOS-back:before {
+  content: "\e907";
+}
+.icon-Question:before {
+  content: "\e948";
+}
+.icon-Lock:before {
+  content: "\e936";
+}
+.icon-Notifications:before {
+  content: "\e90f";
+}
+.icon-Twisty-closed:before {
+  content: "\e912";
+}
+.icon-Twisty-open:before {
+  content: "\e913";
+}
+.icon-Settings:before {
+  content: "\e91c";
+}
